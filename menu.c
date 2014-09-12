@@ -1,4 +1,25 @@
-                                                                                /******************************************************************************//* Copyright (C) mc2lab.com, SSE@USTC, 2014-2015                              *//*                                                                            *//* FILE NAME             : menu.c                                             *//* PRINCIPAL AUTHOR      : YangXuan                                           *//* MODULE NAME           : menu                                               *//* SUBSYSTEM NAME        : menu                                               *//* LANGUAGE              : C                                                  *//* TARGET ENVIROMENT     : ANY                                                *//* DATE OF FIRST RELEASE : 2014/09/13                                         *//* DESCRIPTION           : This is a menu program                             *//******************************************************************************/                                                                                                                                                                /*                                                                               * Revision log:                                                                 *                                                                               * Created by YangXuan, 2014/09/13                                               */                                                                                                                                                                                                                                                                                                                                                                                                             #include<stdio.h>
+
+/******************************************************************************/
+/* Copyright (C) mc2lab.com, SSE@USTC, 2014-2015                              */
+/*                                                                            */
+/* FILE NAME             : menu.c                                             */
+/* PRINCIPAL AUTHOR      : YangXuan                                           */
+/* MODULE NAME           : menu                                               */
+/* SUBSYSTEM NAME        : menu                                               */
+/* LANGUAGE              : C                                                  */
+/* TARGET ENVIROMENT     : ANY                                                */
+/* DATE OF FIRST RELEASE : 2014/09/13                                         */
+/* DESCRIPTION           : This is a menu program                             */
+/******************************************************************************/  
+
+
+/*                                                                               
+ * Revision log:                                                                 
+ *                                                                               
+ * Created by YangXuan, 2014/09/13                                               
+ */    
+ 
+#include<stdio.h>
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -13,7 +34,9 @@ typedef struct DataNode
 } tDataNode;
 
 main()
-{                                                                                   tDataNode  *head = NULL; 
+{                                                                                   
+                                                                                
+    tDataNode  *head = NULL; 
     /* Init cmd list */
     int i;
     tDataNode  *p = NULL; 
