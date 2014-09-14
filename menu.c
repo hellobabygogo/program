@@ -1,23 +1,23 @@
 
-/******************************************************************************/
-/* Copyright (C) mc2lab.com, SSE@USTC, 2014-2015                              */
-/*                                                                            */
-/* FILE NAME             : menu.c                                             */
-/* PRINCIPAL AUTHOR      : YangXuan                                           */
-/* MODULE NAME           : menu                                               */
-/* SUBSYSTEM NAME        : menu                                               */
-/* LANGUAGE              : C                                                  */
-/* TARGET ENVIROMENT     : ANY                                                */
-/* DATE OF FIRST RELEASE : 2014/09/13                                         */
-/* DESCRIPTION           : This is a menu program                             */
-/******************************************************************************/  
+/**************************************************************************************************/
+/* Copyright (C) mc2lab.com, SSE@USTC, 2014-2015                                                  */
+/*                                                                                                */
+/*  FILE NAME             :  menu.c                                                               */
+/*  PRINCIPAL AUTHOR      :  YangXuan                                                             */
+/*  SUBSYSTEM NAME        :  menu                                                                 */
+/*  MODULE NAME           :  menu                                                                 */
+/*  LANGUAGE              :  C                                                                    */
+/*  TARGET ENVIRONMENT    :  ANY                                                                  */
+/*  DATE OF FIRST RELEASE :  2014/09/13                                                           */
+/*  DESCRIPTION           :  This is a menu program                                               */
+/**************************************************************************************************/
 
-
-/*                                                                               
- * Revision log:                                                                 
- *                                                                               
- * Created by YangXuan, 2014/09/13                                               
- */    
+/*
+ * Revision log:
+ *
+ * Created by YangXuan, 2014/09/13
+ *
+ */
  
 #include<stdio.h>
 #include<stdio.h>
